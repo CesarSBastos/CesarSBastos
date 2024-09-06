@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about backend development and love working with Java, Spring Boot, and microservices<br>📚 I am always eager to learn new technologies and contribute to projects that positively impact the community<br>🎯 Goals: Become a reference in backend development<br>🎲 Fun fact: When I'm not coding, I like to cook and drink a beer 🍺</p>
+<p align="left">✨ Passionate about backend development and love working with Java, Spring Boot, and microservices<br>📚 I am always eager to learn new technologies and contribute to projects that positively impact the community<br>🎯 Goals: Become a reference in backend development<br>🎲 Free time: When I'm not coding, I like to cook and drink a beer 🍺</p>
 
 ###
 
